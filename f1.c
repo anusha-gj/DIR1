@@ -1,5 +1,5 @@
 #include<stdio.h>
-void main()
+int main()
 {
   printf("hello");
   printf("hi");
@@ -7,4 +7,5 @@ void main()
   printf("I am ABC");
   printf("anusha");
   printf("anu");
+  printf("akka");
 }
